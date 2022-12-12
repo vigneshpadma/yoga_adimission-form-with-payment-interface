@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>classic yoga</title>
+</head>
+<body>
+<center><h1>PAYMENT</h1></center>
+</body>
+</html>
